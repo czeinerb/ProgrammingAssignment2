@@ -58,7 +58,7 @@ cacheSolve <- function(x, ...) {
         #### row2    2    6
         
         ### 3. cache the matrix
-        # cm1 <- makeCacheMatrix(m1)
+        # > cm1 <- makeCacheMatrix(m1)
 
         ### 4. create and check inverse
         # > im1 <- cacheSolve(cm1)
